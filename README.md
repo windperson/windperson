@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Chen-Yu(Isak) Pao** 
+
+- 😄 Pronouns: He/Him/His
+- 📫 How to reach me: <http://linktr.ee/isakpao>
+- 👨‍🎓 Education: 
+  - B.S. in Computer Science, National Taiwan University, 1999-2005
+  - Major: Computer Science & Information Engineering  
+    Minor: Mechanical Engineering
+- 👨‍💻 Tech community activities: <https://windperson.github.io/PersonalDevHistory>
