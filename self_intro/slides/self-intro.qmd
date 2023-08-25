@@ -1,0 +1,101 @@
+---
+title: "Self introduction"
+author: "Isak Pao"
+format: 
+    pptx:
+        reference-doc: ../templates/template.pptx
+
+---
+
+
+## About me
+
+- Name: Isak (pronouce as *Isaac* ) Pao
+- Experience: almot 15 years, mainly focused on web backend development.
+- Social media contact list: [http://linktr.ee/windperson](http://linktr.ee/windperson)
+
+## At work
+
+- When at the startup called GranDen Inc., I was on Research & Developement team as a Chief Technology Officer.
+
+- We made some mobile app with the Augmented Reality, Emerging Cloud technology especially about Microsoft Azure.
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- [*Microsoft Ignite 2018* Cusotmer Story](https://web.archive.org/web/20230203195751/https://customers.microsoft.com/en-us/story/granden-media-telecommunications-azure)
+
+![](./imgs/granden_azure_signalr_cusotmer_story.png)
+
+:::
+
+::: {.column width="50%"}
+
+- Interactive Baseball Game based on Azure SignalR service:
+
+![<https://youtu.be/03rhzaQ38h4?si=TmMn3zMeU5JlwvwF>](./imgs/baseball-game_snapshot.png)
+
+:::
+
+::::
+
+
+##  Tech community
+
+- Tech Summit speech:
+    - Session speech in .NET Conf held in Taiwan by Study4TW from 2020 to 2023.
+    - Cloud Summit 2022: Microsoft Orleans on Azure Cloud.
+    - MonkeyFest 2018 Global Xamarin Bootcamp in Taipei & Xamarin China Summit 2019: topics about Xamarin app dev technology.
+    - COSCUP 2017: gRPC communication between Java, Golang, .NET Core.
+    - Container Summit 2016: Docker on game backend devops.
+
+- Manage the [**MR/XR Developers Community**](https://www.facebook.com/groups/mrxrdevelopers/) Facebook Group
+- Co-Host of the Mothly online streaming meetup of Facebook Group [**Xamarin Asia Developers**](https://www.facebook.com/groups/670773469603565)
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![.NET Conf Taiwan 2020](./imgs/dotnetconf_2020_tpe.jpg)
+
+:::
+
+::: {.column width="50%"}
+
+![.NET Conf Taiwan 2022 <br/><https://www.youtube.com/watch?v=oiJvbKReiTw> ](./imgs/dotnetconf_2022_tpe.png)
+
+
+:::
+
+::::
+
+
+## At Leisure
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Recreation:
+    - Reading (history, psychology), traveling, and finding intresting coffee shops.
+
+:::
+
+::: {.column width="50%"}
+
+![Tamsui Fishrman Wharf](./imgs/tamsui_fisherman_wharf.jpg)
+
+:::
+
+::::
+
+<!--
+## Side project
+
+- [iThome Ironman 2022 masterpiece awards](https://ithelp.ithome.com.tw/2022ironman/reward) paper book publishing.
+-->
