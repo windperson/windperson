@@ -11,7 +11,7 @@ format:
 ## About me
 
 - Name: Isak (pronouce as *Isaac* ) Pao
-- Experience: almot 15 years, mainly focused on web backend development.
+- Experience: almot 15 years, mainly focused on .NET technology.
 - Social media contact list: [http://linktr.ee/windperson](http://linktr.ee/windperson)
 
 ## At work
@@ -61,7 +61,7 @@ format:
 
 ::: {.column width="50%"}
 
-![.NET Conf Taiwan 2020](./imgs/dotnetconf_2020_tpe.jpg)
+![.NET Conf Taiwan 2020](./imgs/dotnetconf_2020_tpe.png)
 
 :::
 
@@ -88,14 +88,34 @@ format:
 
 ::: {.column width="50%"}
 
-![Tamsui Fishrman Wharf](./imgs/tamsui_fisherman_wharf.jpg)
+![Tamsui Fishrman Wharf](./imgs/tamsui_fisherman_wharf.png)
 
 :::
 
 ::::
 
-<!--
+
 ## Side project
 
-- [iThome Ironman 2022 masterpiece awards](https://ithelp.ithome.com.tw/2022ironman/reward) paper book publishing.
--->
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- [iThome Ironman 2022 excellent work award<br/>(佳作)](https://ithelp.ithome.com.tw/2022ironman/reward)  
+  paper book publishing.
+    - Book title:  
+      **"Microsoft Orleans：加速Azure的ASP.NET Core雲端應用開發推進器"**
+
+- Unity AR Foundation App development: Historical Cameras
+
+:::
+
+::: {.column width="50%"}
+
+![](./imgs/ithome_ironman_2022.png)
+
+:::
+
+::::
+
+## *Thank you* 🤓👍
